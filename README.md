@@ -17,4 +17,4 @@ Freddy Alejandro Cuellar / facuellarg@unal.edu.co
 - vaderSentiment
 - googletrans
 
-Proyecto basado en el proyecto ya empezado anterior mete para la materia Introduccion a Inteligencia artificial (https://github.com/savargasqu/introAI-3-professor-reviews)
+Proyecto basado en el proyecto ya empezado anteriormente para la materia Introduccion a Inteligencia artificial (https://github.com/savargasqu/introAI-3-professor-reviews)
