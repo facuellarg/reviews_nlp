@@ -1,13 +1,10 @@
 
 # Predicción de puntuaciones de profesores a partir de opiniones
 
-**Proyecto #3 de Introducción a la Inteligencia Artificial (2019 - II)**
+**Proyecto Final Para Procesamiento de Lenguaje Natural**
 
 
 Freddy Alejandro Cuellar / facuellarg@unal.edu.co
-
-Sergio Alejandro Vargas / savargasqu@unal.edu.co
-
 ## Dependencias (instalación con `conda` o `PIP`)
 
 - requests
@@ -15,3 +12,9 @@ Sergio Alejandro Vargas / savargasqu@unal.edu.co
 - scikit-learn
 - numpy
 - pandas
+- nltk
+- gensim
+- vaderSentiment
+- googletrans
+
+Proyecto basado en el proyecto ya empezado anterior mete para la materia Introduccion a Inteligencia artificial (https://github.com/savargasqu/introAI-3-professor-reviews)
